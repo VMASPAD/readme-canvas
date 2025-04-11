@@ -1,6 +1,5 @@
 import { MarkdownWorkspace } from "@/components/markdown-editor/MarkdownWorkspace";
 import { File } from "lucide-react";
-import Image from "next/image";
 
 export default function Home() {
   return (
