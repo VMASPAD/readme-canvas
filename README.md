@@ -45,6 +45,7 @@ The application features a dual-pane interface, with a file manager on the left 
 
 ## 📸 Screenshots
 
+![image](https://github.com/user-attachments/assets/82076fc3-9d2a-4f16-aeb9-7c7322e8da53)
 
 ## 🏁 Getting Started
 
